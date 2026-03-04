@@ -1,2 +1,5 @@
-Soy a2.txt y tambien me acaban de crear
-tambien me van a modificar
+soy a2.txt y me acaban de crear
+
+primera modificacion
+
+trabajando con la rama tar2
