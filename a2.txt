@@ -2,4 +2,8 @@ Soy a2.txt y tambien me acaban de crear
 
 tambien me van a modificar
 
+<<<<<<< HEAD
 modifico para tar4
+=======
+creada rama tar3
+>>>>>>> tar3
